@@ -1,0 +1,7 @@
+[INFO]
+[PART]
+file="lldpd.tar.bz2"
+version="0.9.9-1"
+size="100M"
+name="lldpd"
+minfw="11.01.100"
